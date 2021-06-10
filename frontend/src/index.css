@@ -2,7 +2,13 @@ main{
   min-height: 85vh;
 }
 
-h3{
+h2{
+  text-transform: uppercase;
+  padding: 0.2rem 0;
+}
+
+h1, h3{
+  text-transform: uppercase;
   padding: 1rem 0;
 }
 
